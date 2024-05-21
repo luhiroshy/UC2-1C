@@ -12,7 +12,18 @@
 # Tereza Oliveira
 
 Atividade 1: Trello 
-- [Grupo](link)
+- [Grupo - IFood](https://trello.com/c/xAJ66blD/6-o-que-voc%C3%AA-acredita-que-poderia-ser-melhorado)
+- [Grupo - Gerenciamentop de entregas](https://trello.com/invite/b/4GwFxWwX/ATTI9037741bbc768bb210305c0bcd12adf084510D63/gerenciamento-de-entregas)
+- [Individual](https://trello.com/invite/b/V1vT7sJF/ATTId605f8c00165878d5fb0c877123a493e4852A870/projeto-pessoal-linguas)
 
+Atividade 2: Linguagem de programação 
+- [C++](https://www.canva.com/design/DAGEjWwOWGA/Me6Xn4CuGQC1s3_PGDGzMw/edit?utm_content=DAGEjWwOWGA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
+ Atividade 3: Projeto social
+- [Moradias em lugares inadequados](https://www.canva.com/design/DAGCfmrJtpQ/XYYHA_xkNL4-ltXdDd-5og/edit?utm_content=DAGCfmrJtpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ 
+ Atividade 4: Business Model Canvas
+ - [Empreendimento local](link)
+ 
+ Atividade 5: Emprego dos sonhos
+ - [Emprego dos sonhos](https://docs.google.com/document/d/1naD6z8AkZP8NvgutT5gHbS-Y2wUu1Oe8zA5icYuiNOs/edit?usp=sharing)
