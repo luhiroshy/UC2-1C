@@ -27,3 +27,6 @@ Atividade 2: Linguagem de programação
  
  Atividade 5: Emprego dos sonhos
  - [Emprego dos sonhos](https://docs.google.com/document/d/1naD6z8AkZP8NvgutT5gHbS-Y2wUu1Oe8zA5icYuiNOs/edit?usp=sharing)
+
+ Atividade 6: Geáfico de Gantt
+ - [Gráfico de Gantt](https://docs.google.com/spreadsheets/d/1OFz8BrnGwx4sjGtWtMt4ir-ciq8_80krETwdwgTRnUI/edit?usp=sharing)
